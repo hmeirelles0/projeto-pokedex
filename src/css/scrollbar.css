@@ -4,6 +4,10 @@
 	width: 12px;
 }
 
+body::-webkit-scrollbar {
+	width: 20px;
+}
+
 *::-webkit-scrollbar-track {
 	background: #f1e9e9;
 }
